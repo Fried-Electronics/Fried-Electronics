@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Fried-Electronics AKA Tom Fry
 - 👀 I’m interested in Microcontrollers, PCB Design, Embedded C, LabVIEW, Python
-- 🌱 I’m currently learning all of the above
 - 📫 How to reach me contact@friedelectronics.co.uk
 
 <!---
